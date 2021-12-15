@@ -31,7 +31,7 @@ const socialMediaLinks = {
   facebook: "https://www.facebook.com/profile.php?id=100012010657954",
   medium: "",
   stackoverflow: "",
-  whatsapp:"https://wa.me/+249919394025",
+  whatsapp:"https://wa.me/+966541841198",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -330,7 +330,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+249919394025",
+  number: "+966541841198",
   email_address: "aomer1479@gmail.com"
 };
 
